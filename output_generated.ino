@@ -1,3 +1,5 @@
+// Generated output code if you dont want to go through the work of creating it yourself
+
 #include <LiquidCrystal.h>
 const int rs = 12, rw = 11, d4 = 5, d5 = 4, d6 = 3, d7 = 2;
 byte UA976[8] = {0b00000, 0b00000, 0b00000, 0b00000, 0b00000, 0b00000, 0b00000, 0b00000};
